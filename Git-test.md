@@ -52,6 +52,8 @@ list archives are available at <https://lore.kernel.org/git/>,
 Issues which are security relevant should be disclosed privately to
 the Git Security mailing list <git-security@googlegroups.com>.
 
+<img src="docs/Intro.jpg">
+
 The maintainer frequently sends the "What's cooking" reports that
 list the current status of various development topics to the mailing
 list.  The discussion following them give a good reference for
@@ -69,3 +71,6 @@ and the name as (depending on your mood):
  - "global information tracker": you're in a good mood, and it actually
    works for you. Angels sing, and a light suddenly fills the room.
  - "goddamn idiotic truckload of sh*t": when it breaks
+
+
+ <img src="docs/Logo.png">
