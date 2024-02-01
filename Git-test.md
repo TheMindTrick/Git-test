@@ -1,7 +1,10 @@
 Инструкция по работе с Git
 =========================================================
 
+<img align="right" width="200" height="135" src="docs/Logo.png">
+
 [![Build status](https://github.com/git/git/workflows/CI/badge.svg)](mailto:themindtrick@hotmail.com)
+
 
 Git - fast, scalable, distributed revision control system
 
