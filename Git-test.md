@@ -52,7 +52,7 @@ list archives are available at <https://lore.kernel.org/git/>,
 Issues which are security relevant should be disclosed privately to
 the Git Security mailing list <git-security@googlegroups.com>.
 
-<img src="docs/Intro.jpg">
+<img src="docs/Intro.gif" style="border-radius: 15px">
 
 The maintainer frequently sends the "What's cooking" reports that
 list the current status of various development topics to the mailing
@@ -73,4 +73,4 @@ and the name as (depending on your mood):
  - "goddamn idiotic truckload of sh*t": when it breaks
 
 
- <img src="docs/Logo.png">
+ <img style="width: 80%" align="center" src="docs/Logo.png">
