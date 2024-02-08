@@ -6,18 +6,18 @@
 [![Build status](https://github.com/git/git/workflows/CI/badge.svg)](mailto:themindtrick@hotmail.com)
 
 
+## LESSON - 1
+
 Git - fast, scalable, distributed revision control system
 
-Git is a fast, scalable, distributed revision control system with an
-unusually rich command set that provides both high-level operations
-and full access to internals.
+Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.
 
 Git is an Open Source project covered by the GNU General Public
 License version 2 (some parts of it are under different licenses,
 compatible with the GPLv2). It was originally written by Linus
 Torvalds with help of a group of hackers around the net.
 
-Please read the file [INSTALL][] for installation instructions.
+*Please read the file [INSTALL][] for installation instructions.*
 
 Many Git online resources are accessible from <https://git-scm.com/>
 including full documentation and Git related tools.
@@ -74,3 +74,7 @@ and the name as (depending on your mood):
 
 
  <img style="width: 80%" align="center" src="docs/Logo.png">
+
+
+
+ ## LESSON - 2
