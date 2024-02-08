@@ -91,6 +91,7 @@ and the name as (depending on your mood):
 
 Также, если этого раньше не делалось, то нужно определить ваше имя пользователя и email командами:
 > ```git config --global user.name "your name"```
+
 > ```git config --global user.email your email ```
 
 ## Добавление файлов под контроль версий
