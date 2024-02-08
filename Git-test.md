@@ -85,3 +85,5 @@ and the name as (depending on your mood):
  ## LESSON - 2
 
  ```git branch``` - команда, которая выводит ветки
+
+ ```git branch branch_name``` - создание ветки
