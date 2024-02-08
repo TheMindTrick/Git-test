@@ -76,6 +76,8 @@ and the name as (depending on your mood):
  <img style="width: 80%" align="center" src="docs/Logo.png">
  
  ## Git Commands
+ 
+ ```git init``` - инициализация гита
 
  ```git status``` - команда, вызывающая блок информации по состоянию репозитория
 
