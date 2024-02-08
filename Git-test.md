@@ -89,7 +89,7 @@ and the name as (depending on your mood):
  ```git branch branch_name``` - создание ветки
 
  ```git branch branch_name``` - создание ветки
- text_for_error
+ text_for_error +
 
 ## New_branch-1
 
