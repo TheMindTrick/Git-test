@@ -99,5 +99,4 @@ and the name as (depending on your mood):
 
 ## New_branch-2
 
-```text_for_error``` - New-_branch-1 text for Merge
-New text for ERROR
+```text_for_error``` - New-_branch-1 text for ERROR Merge
